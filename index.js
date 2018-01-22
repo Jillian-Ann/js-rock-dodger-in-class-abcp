@@ -74,7 +74,23 @@ function endGame() {
   return alert('YOU LOSE!')
 }
 
-function moveDodger(e) {
+function moveDodger() {positionToInteger
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   const code = e.which
 
   if ([LEFT_ARROW, RIGHT_ARROW].indexOf(code) > -1) {
